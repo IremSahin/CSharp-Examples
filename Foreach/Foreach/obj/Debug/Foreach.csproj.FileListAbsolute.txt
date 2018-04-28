@@ -1,0 +1,5 @@
+D:\C#\Foreach\Foreach\bin\Debug\Foreach.exe
+D:\C#\Foreach\Foreach\bin\Debug\Foreach.pdb
+D:\C#\Foreach\Foreach\obj\Debug\Foreach.csprojResolveAssemblyReference.cache
+D:\C#\Foreach\Foreach\obj\Debug\Foreach.exe
+D:\C#\Foreach\Foreach\obj\Debug\Foreach.pdb
