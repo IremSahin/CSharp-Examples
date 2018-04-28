@@ -1,0 +1,5 @@
+D:\C#\Alistirmalar\Alistirmalar\bin\Debug\Alistirmalar.exe
+D:\C#\Alistirmalar\Alistirmalar\bin\Debug\Alistirmalar.pdb
+D:\C#\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.csprojResolveAssemblyReference.cache
+D:\C#\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.exe
+D:\C#\Alistirmalar\Alistirmalar\obj\Debug\Alistirmalar.pdb
