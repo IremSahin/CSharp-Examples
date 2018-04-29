@@ -1,0 +1,5 @@
+C:\Users\iremm\Documents\C#\For_Example\For_Example\bin\Debug\For_Example.exe
+C:\Users\iremm\Documents\C#\For_Example\For_Example\bin\Debug\For_Example.pdb
+C:\Users\iremm\Documents\C#\For_Example\For_Example\obj\Debug\For_Example.csprojResolveAssemblyReference.cache
+C:\Users\iremm\Documents\C#\For_Example\For_Example\obj\Debug\For_Example.exe
+C:\Users\iremm\Documents\C#\For_Example\For_Example\obj\Debug\For_Example.pdb
