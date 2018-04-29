@@ -1,0 +1,5 @@
+C:\Users\iremm\Documents\C#\While_Example\While_Example\bin\Debug\While_Example.exe
+C:\Users\iremm\Documents\C#\While_Example\While_Example\bin\Debug\While_Example.pdb
+C:\Users\iremm\Documents\C#\While_Example\While_Example\obj\Debug\While_Example.csprojResolveAssemblyReference.cache
+C:\Users\iremm\Documents\C#\While_Example\While_Example\obj\Debug\While_Example.exe
+C:\Users\iremm\Documents\C#\While_Example\While_Example\obj\Debug\While_Example.pdb
