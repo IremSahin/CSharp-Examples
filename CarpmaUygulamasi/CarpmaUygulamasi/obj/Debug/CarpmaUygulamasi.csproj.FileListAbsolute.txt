@@ -1,0 +1,5 @@
+C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\bin\Debug\CarpmaUygulamasi.exe
+C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\bin\Debug\CarpmaUygulamasi.pdb
+C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.exe
+C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.pdb
