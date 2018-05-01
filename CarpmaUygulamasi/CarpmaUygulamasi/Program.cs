@@ -141,7 +141,6 @@ namespace CarpmaUygulamasi
                 for (int j = 0; j < toplanacak.Length; j++)
                 {
                     indis = toplanacak[j];
-                    //deger += int.Parse(indis[i].ToString()); 
                     deger = (int.Parse(deger) + int.Parse(indis[i].ToString())).ToString();
                 }
 
@@ -177,27 +176,3 @@ namespace CarpmaUygulamasi
         }
     }
 }
-                    /*if (i == 0)
-                    {
-                       // indis = toplanacak[j];
-                       // deger = (int.Parse(elde) + int.Parse(indis[i].ToString())).ToString();
-                        char[] tersCevir = deger.ToCharArray();
-                        Array.Reverse(tersCevir);
-                        deger = new String(tersCevir);
-                        degerSon += deger;
-                    }
-
-                    if (i != 0)
-                    {
-                       // indis = toplanacak[j];
-                       // deger = (int.Parse(elde) + int.Parse(indis[i].ToString())).ToString();
-                        elde = "0";
-
-                        for (int k = 0; k < deger.Length - 1; k++)
-                        {
-                            elde += deger[k];
-                        }
-
-                        deger = deger[deger.Length - 1].ToString();
-                        degerSon += deger;
-                    }*/

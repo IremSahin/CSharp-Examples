@@ -3,3 +3,8 @@ C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\bin\Debug\CarpmaUy
 C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.csprojResolveAssemblyReference.cache
 C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.exe
 C:\Users\iremm\Documents\C#\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.pdb
+C:\Users\iremm\Documents\GitHub\C-Examples\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.exe
+C:\Users\iremm\Documents\GitHub\C-Examples\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.pdb
+C:\Users\iremm\Documents\GitHub\C-Examples\CarpmaUygulamasi\CarpmaUygulamasi\bin\Debug\CarpmaUygulamasi.exe
+C:\Users\iremm\Documents\GitHub\C-Examples\CarpmaUygulamasi\CarpmaUygulamasi\bin\Debug\CarpmaUygulamasi.pdb
+C:\Users\iremm\Documents\GitHub\C-Examples\CarpmaUygulamasi\CarpmaUygulamasi\obj\Debug\CarpmaUygulamasi.csprojResolveAssemblyReference.cache
